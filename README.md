@@ -11,7 +11,7 @@
 #### Постраничный вывод полученных новостей
 
 ```http
-  GET /api/items
+  GET /api/posts
 ```
 
 | Parameter | Type     | Description                |
