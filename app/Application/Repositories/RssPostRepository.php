@@ -16,7 +16,7 @@ final class RssPostRepository extends CoreRepository
      */
     protected function getModelClass(): string
     {
-        return Model::class;
+        return Model::class; 
     }
     
         
